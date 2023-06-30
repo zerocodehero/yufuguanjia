@@ -12,7 +12,12 @@ logging.basicConfig(filename="/timing/yufuguanjia.log", level=logging.INFO,
 
 
 total_account_password = {
-    "phone": "password"
+    "phone": "password",
+    "phone": "password",
+          ....
+}
+
+
 }
 
 
