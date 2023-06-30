@@ -76,8 +76,8 @@ class ClockIn(object):
         #     "msg": "操作成功",
         #     "employ": {
         #         "empId": 227684,
-        #         "empPhone": "13913918492",
-        #         "empCardid": "34220119265926",
+        #         "empPhone": "1392",
+        #         "empCardid": "3426",
         #         "empPasw": "",
         #         "empName": "李男",
         #         "empCardidType": "A",
