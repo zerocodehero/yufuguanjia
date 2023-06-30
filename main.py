@@ -23,7 +23,7 @@ class ClockIn(object):
         self.nexttime = ""
         self.phone = phone
         self.password = password
-        self.cs_num = "657217573a7d7facdc08e8d453636649dcb7fc0eaf481c413a9ff221d97b932e"
+        self.cs_num = "派出所给的二维码数据"
 
         self.headers = {
             "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) "
